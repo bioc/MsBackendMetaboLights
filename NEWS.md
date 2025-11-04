@@ -1,3 +1,10 @@
+# MsBackendMetaboLights 1.4
+
+## Changes in 1.4.1
+
+- Increase the number of times to try downloading data from MetaboLights if
+  failing.
+
 # MsBackendMetaboLights 1.3
 
 ## Changes in 1.3.2
