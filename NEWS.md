@@ -1,5 +1,9 @@
 # MsBackendMetaboLights 1.4
 
+## Changes in 1.4.2
+
+- Export `retry()` function.
+
 ## Changes in 1.4.1
 
 - Increase the number of times to try downloading data from MetaboLights if
